@@ -32,6 +32,7 @@ h4 {
 
 .indifferent {
   background-color: #dddd22;
+  border: 1px solid #bbb00;
     box-shadow:  -1px 1px #FFFF00, -2px 2px #FFFF00, -3px 3px #FFFF00, -4px 4px #FFFF00, -5px 5px #FFFF00;
 
 }
