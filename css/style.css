@@ -39,6 +39,7 @@ h4 {
 
 .dubious {
   background-color: #dd4444;
+  border: 1px solid #bbb00;
     box-shadow:  -1px 1px #B22222, -2px 2px #B22222, -3px 3px #B22222, -4px 4px #B22222, -5px 5px #B22222;
 
 }
